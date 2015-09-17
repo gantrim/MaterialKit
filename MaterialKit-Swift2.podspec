@@ -10,7 +10,7 @@ Pod::Spec.new do |s|
 
   s.platform     = :ios
   s.ios.deployment_target = "8.0"
-  s.source       = { :git => "https://github.com/reesemclean/MaterialKit.git", :tag => "0.4.0" }
+  s.source       = { :git => "https://github.com/reesemclean/MaterialKit.git", :tag => s.version.to_s }
 
   s.module_name = 'MaterialKit'
   s.source_files  = "Source/*"
