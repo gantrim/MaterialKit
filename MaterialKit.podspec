@@ -1,5 +1,5 @@
 Pod::Spec.new do |s|
-  s.name         = "MaterialKit-Swift2"
+  s.name         = "MaterialKit"
   s.version      = "0.4.1"
   s.summary      = "A fork of https://github.com/nghialv/MaterialKit using Swift 2 syntax."
 
